@@ -20,7 +20,15 @@ Para resolver la falla manteniendo una buena experiencia de usuario, se propuso 
 * **Validación del lado del servidor:** Verificar en cada petición que el usuario autenticado tenga permisos explícitos sobre el recurso solicitado antes de renderizar los datos.
 * **Invalidación de enlaces directos:** Evitar parámetros predecibles o persistentes en la URL que funcionen como llave de acceso permanente.
 
-## 4. Habilidades Aplicadas
+## 4. Modelado de Procesos (BPMN)
+
+### Flujo Actual (AS-IS)
+![Flujo Actual AS-IS](Diagramas/nombre-de-tu-archivo-as-is.png)
+
+### Flujo Mitigado (TO-BE)
+![Flujo Mitigado TO-BE](Diagramas/nombre-de-tu-archivo-to-be.png)
+
+## 5. Habilidades Aplicadas
 * Análisis de lógica de negocio y procesos de autenticación.
 * Documentación técnica formal orientada a equipos de desarrollo y gestión.
 * Pruebas funcionales y de seguridad de caja negra.
