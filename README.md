@@ -23,10 +23,10 @@ Para resolver la falla manteniendo una buena experiencia de usuario, se propuso 
 ## 4. Modelado de Procesos (BPMN)
 
 ### Flujo Actual (AS-IS)
-![Flujo Actual AS-IS](Diagramas/nombre-de-tu-archivo-as-is.png)
+![Flujo Actual AS-IS](Diagramas/as-is.png)
 
 ### Flujo Mitigado (TO-BE)
-![Flujo Mitigado TO-BE](Diagramas/nombre-de-tu-archivo-to-be.png)
+![Flujo Mitigado TO-BE](Diagramas/to-be.png)
 
 ## 5. Habilidades Aplicadas
 * Análisis de lógica de negocio y procesos de autenticación.
